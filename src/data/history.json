@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Front-end Developer",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": ["Worked on creating basic code editor"],
+    "imageSrc": "history/frnt.png"
+  },
+  {
+    "role": "Developer",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": ["Developed a game named BubbleBlitz"],
+    "imageSrc": "history/2nd.png"
+  },
+  {
+    "role": "UI Design",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Developed a UI of Employee Management System",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/3rd.png"
+  }
+]

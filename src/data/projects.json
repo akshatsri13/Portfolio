@@ -1,0 +1,26 @@
+[
+  {
+    "title": "WeatherBit",
+    "imageSrc": "projects/weather_app1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["JavaScript", "React", "Api Integration"],
+    "demo": "https://weatherbitakki.netlify.app/",
+    "source": "https://github.com/akshatsri13/WeatherBit"
+  },
+  {
+    "title": "CodeBloom",
+    "imageSrc": "projects/code_ed.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://code-bloom-two.vercel.app/",
+    "source": "https://github.com/akshatsri13/CodeBloom"
+  },
+  {
+    "title": "BubbleGame",
+    "imageSrc": "projects/bubble_game.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://bubble-game-henna-six.vercel.app/",
+    "source": "https://github.com/akshatsri13/Bubble-game"
+  }
+]
